@@ -7,6 +7,7 @@ p.one
 {
     padding-right:1.5em;
     padding-bottom:1ex;
+    
 }
 h4,h5
 {
@@ -27,32 +28,9 @@ p.para
     padding-top: 1ex;
     font-size: 2.8ex;
 }
-*
-{
-    padding:0;
-    margin: 0;
-    box-sizing: border-box;
 
-   
-}
-.menu
-{
-    
-    padding-left: 2.5em;
-    border-bottom: 2px gray;
-}
-.menu ul{
-    display: inline-flex;
-    list-style: none;
-    color:gray;
-}
-.menu ul li
-{
-    
-    margin:0.5ex;
-    padding:25px;
-   
-}
+
+
 a 
   {
      
@@ -76,6 +54,7 @@ a
     p 
     {
         font-size: 14px;
+        
     }
    
     p.para
@@ -98,12 +77,10 @@ a
     {
         font-size: 3.3ex;
     }
+    
   }
-  @media only screen and (max-width: 766px) {
-    div.example {
-      display: none;
-    }
-  }
+  
+
   @media only screen and (max-width: 998px) {
     div.example {
       display: none;
