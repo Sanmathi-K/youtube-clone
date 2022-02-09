@@ -2,7 +2,7 @@ function setNewImage1()
 {
     
     
-    document.getElementById("img1").src="https://i.ytimg.com/an_webp/_uQrJ0TkZlc/mqdefault_6s.webp?du=3000&sqp=CI_miZAG&rs=AOn4CLCK3xub1OlIQDFI7q_jSIhscDPh7g";
+    document.getElementById("img1").src="https://i.ytimg.com/vi/jRFKZGWrmrM/maxresdefault.jpg";
    
 }
 function setOldImage1()
@@ -15,7 +15,7 @@ function setNewImage2()
 {
     
     
-    document.getElementById("img2").src="https://i.ytimg.com/an_webp/W6NZfCO5SIk/mqdefault_6s.webp?du=3000&sqp=CJbUiZAG&rs=AOn4CLA-uIYYtn6cI5_pX6Byglhj5X4L4g";
+    document.getElementById("img2").src="https://code.visualstudio.com/assets/docs/languages/javascript/overview.png";
    
 }
 function setOldImage2()
@@ -27,7 +27,7 @@ function setOldImage2()
 function setNewImage3()
 {
 
-    document.getElementById("img3").src="https://i.ytimg.com/an_webp/eIrMbAQSU34/mqdefault_6s.webp?du=3000&sqp=CJb1iZAG&rs=AOn4CLDatgWEjVJ9k7BCLxGwUlg0oLG9PA";
+    document.getElementById("img3").src="https://images.idgesg.net/images/article/2019/03/javaworld_jvm_jdk_jre_explainer_java_development_kit_write_3x2_2400x1600_by_idg_oracle_vasabii_gettyimages-100790551-large.jpg?auto=webp&quality=85,70";
    
 }
 function setOldImage3()
@@ -39,7 +39,7 @@ function setOldImage3()
 function setNewImage4()
 {
     
-     document.getElementById("img4").src="https://i.ytimg.com/an_webp/Ke90Tje7VS0/mqdefault_6s.webp?du=3000&sqp=CNGVipAG&rs=AOn4CLAJTKv85kgQgwvzZsDXgwGjhsGdcg";
+     document.getElementById("img4").src="https://www.habilelabs.io/wp-content/uploads/2021/02/This-is-Why-You-Should-Choose-React-js-1.jpg";
    
 }
 function setOldImage4()
@@ -52,7 +52,7 @@ function setNewImage5()
 {
     
     
-    document.getElementById("img5").src="https://i.ytimg.com/an_webp/i8xsbYgMiBs/mqdefault_6s.webp?du=3000&sqp=CPmlipAG&rs=AOn4CLBbSPjn0uoz36Ha5DxtfyCwTJuBaQ";
+    document.getElementById("img5").src="https://merehead.com/blog/wp-content/uploads/11-5.png";
    
 }
 function setOldImage5()
@@ -65,7 +65,7 @@ function setNewImage6()
 {
    
     
-    document.getElementById("img6").src="https://i.ytimg.com/an_webp/8JJ101D3knE/mqdefault_6s.webp?du=3000&sqp=CPOvipAG&rs=AOn4CLBWFHqhi45sExuKL4cmiBmO6LjDIg";
+    document.getElementById("img6").src="https://static.javatpoint.com/tutorial/git/images/git-benefits.png";
    
 }
 function setOldImage6()
@@ -78,7 +78,7 @@ function setNewImage7()
 {
     
     
-    document.getElementById("img7").src="https://i.ytimg.com/an_webp/k5E2AVpwsko/mqdefault_6s.webp?du=3000&sqp=CI6BipAG&rs=AOn4CLBPvYzMRFxNq5ykmtJNmWFn5cwQXA";
+    document.getElementById("img7").src="https://dotnettrickscloud.blob.core.windows.net/img/angular/angular-component-page-view.png";
    
 }
 function setOldImage7()
@@ -91,7 +91,7 @@ function setNewImage8()
 {
     
     
-    document.getElementById("img8").src="https://i.ytimg.com/an_webp/88PXJAA6szs/mqdefault_6s.webp?du=3000&sqp=CLW8ipAG&rs=AOn4CLA-kCa_cXa--4rSUDO43HyO9H5DQw";
+    document.getElementById("img8").src="https://cdn-media-1.freecodecamp.org/images/1*4psHn7qR2v1O5kBhJQ_T2w.png";
    
 }
 function setOldImage8()
