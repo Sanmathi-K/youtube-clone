@@ -81,13 +81,17 @@ a
   }
   
 
-  @media only screen and (max-width: 998px) {
-    div.example {
+  @media only screen and (max-width: 998px) 
+  {
+    div.example 
+    {
       display: none;
     }
   }
-  @media only screen and (max-width: 1200px) {
-    div.example {
+  @media only screen and (max-width: 1200px) 
+  {
+    div.example 
+    {
       display: none;
     }
   }
